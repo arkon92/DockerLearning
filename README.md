@@ -1,3 +1,3 @@
 # DockerLearning
 
-This project is used to discover basics functionnality of Docker.
+This project is used to discover the basic functionnalities of Docker.
